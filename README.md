@@ -1,52 +1,96 @@
 <div align="center">
-  <h1>👋 Hello, World!</h1>
-  <h3>Software Engineering Student | Tech Enthusiast</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
+</div>
+
+<h1 align="center">👋 Welcome to my GitHub Profile!</h1>
+<h3 align="center">Information Technology Student | Software Developer | Tech Enthusiast</h3>
+
+<div align="center">
+  <i>Vietnamese 🇻🇳 | English 🇬🇧 | Japanese 🇯🇵</i>
 </div>
 
 ---
 
-## 🇬🇧 About Me
+## 🇬🇧 English: About Me
 
-Hello! I am an Information Technology student majoring in Software Engineering. I enjoy exploring various aspects of software development and prefer to keep an open mind to different technologies and frameworks. I am always eager to learn, adapt to new challenges, and expand my skill set.
+I'm an Information Technology student interested in software development and modern technology. I enjoy exploring different areas of programming, from web and mobile development to backend systems and software architecture.
 
-*   🌱 **Currently learning:** Exploring new tools and broadening my programming knowledge.
-*   🔭 **Interests:** Software development, UI/UX design, and discovering new tech trends.
-*   📫 **How to reach me:** [Insert your email or contact link here]
+Rather than limiting myself to a single technology, I believe in continuously learning, experimenting, and adapting to new challenges. I'm always interested in discovering better ways to build useful, reliable, and maintainable software.
 
----
-
-## 🇻🇳 Về bản thân
-
-Chào mọi người! Mình là sinh viên chuyên ngành Công nghệ Phần mềm. Mình thích khám phá nhiều khía cạnh khác nhau của lập trình và không muốn gò bó bản thân vào một công nghệ nhất định. Mình luôn sẵn sàng học hỏi, thích nghi với các thử thách mới và mở rộng bộ kỹ năng của mình.
-
-*   🌱 **Đang tìm hiểu:** Trải nghiệm các công cụ mới và trau dồi kiến thức lập trình.
-*   🔭 **Sở thích:** Phát triển phần mềm, thiết kế UI/UX và cập nhật xu hướng công nghệ.
-*   📫 **Liên hệ:** [Điền email hoặc link liên hệ của bạn]
+- 🔭 **Exploring:** Web development, mobile development, backend systems, and software architecture.
+- 🌱 **Currently learning:** System Design, Cloud Computing, and modern software development practices.
+- 💡 **Interested in:** Software Engineering, emerging technologies, and problem-solving.
+- 🤝 **Open to:** Learning opportunities, technical discussions, and meaningful collaborations.
+- ⚡ **Fun fact:** I enjoy exploring different technologies and learning something new whenever I have the chance.
 
 ---
 
-## 🇯🇵 自己紹介
+## 🇻🇳 Tiếng Việt: Về bản thân
 
-こんにちは！ソフトウェア工学を専攻しているIT学生です。特定の技術に縛られることなく、ソフトウェア開発のさまざまな分野を幅広く探索することが好きです。常に新しいことを学び、新しい課題に適応し、スキルを広げる意欲を持っています。
+Mình là một sinh viên Công nghệ Thông tin có niềm đam mê với phát triển phần mềm và công nghệ. Mình thích khám phá nhiều lĩnh vực khác nhau trong lập trình, từ phát triển Web, Mobile đến Backend và kiến trúc phần mềm.
 
-*   🌱 **学習中:** 新しいツールの体験とプログラミング知識の向上。
-*   🔭 **興味:** ソフトウェア開発、UI/UXデザイン、最新のテクノロジートレンド。
-*   📫 **連絡先:** [ここに連絡先を入力]
+Thay vì giới hạn bản thân trong một công nghệ hay một lĩnh vực cố định, mình hướng đến việc liên tục học hỏi, thử nghiệm và thích nghi với những công nghệ mới. Mình luôn quan tâm đến cách xây dựng những phần mềm hữu ích, ổn định và dễ bảo trì.
+
+- 🔭 **Đang khám phá:** Web, Mobile, Backend và kiến trúc phần mềm.
+- 🌱 **Đang học hỏi:** System Design, Cloud Computing và các phương pháp phát triển phần mềm hiện đại.
+- 💡 **Quan tâm:** Software Engineering, công nghệ mới và tư duy giải quyết vấn đề.
+- 🤝 **Sẵn sàng:** Học hỏi, trao đổi kiến thức và hợp tác trong những dự án thú vị.
+- ⚡ **Fact vui:** Mình thích khám phá nhiều công nghệ khác nhau và luôn tìm kiếm những điều mới để học.
+
+---
+
+## 🇯🇵 日本語：自己紹介
+
+こんにちは！ソフトウェア開発とテクノロジーに興味を持つIT学生です。
+
+Web開発、モバイル開発、バックエンド、ソフトウェアアーキテクチャなど、様々な分野の技術を学び、探索することが好きです。
+
+特定の技術だけに限定せず、新しい知識を学びながら、様々な課題に柔軟に対応できるエンジニアを目指しています。
+
+- 🔭 **興味のある分野:** Web、Mobile、Backend、Software Architecture
+- 🌱 **学習中:** System Design、Cloud Computing、現代的なソフトウェア開発
+- 💡 **関心:** Software Engineering、新しいテクノロジー、問題解決
+- 🤝 **歓迎:** 技術交流、学習、興味深いプロジェクトへのコラボレーション
+- ⚡ **豆知識:** 新しい技術を探索し、幅広く学ぶことが好きです。
 
 ---
 
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-  <!-- Bạn có thể thêm/bớt các icon công nghệ bạn hay dùng vào đây -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+### 🌐 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,javascript,typescript" alt="Programming Languages" />
+
+### ⚛️ Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,dotnet,flutter" alt="Frameworks" />
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker,aws,gcp" alt="Database and Cloud" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux" alt="Tools" />
+
 </div>
 
-<br />
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Nhớ đổi YOUR_GITHUB_USERNAME thành tên user của bạn -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Always learning. Always building. Always improving."</i>
 </div>
