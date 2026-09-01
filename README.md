@@ -82,10 +82,6 @@ Web開発、モバイル開発、バックエンド、ソフトウェアアー�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VuTriDung1123&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuTriDung1123&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -93,4 +89,5 @@ Web開発、モバイル開発、バックエンド、ソフトウェアアー�
 
 <div align="center">
   <i>"Always learning. Always building. Always improving."</i>
+  <i>"Knowledge requires discipline. Discipline drives knowledge."</i>
 </div>
