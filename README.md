@@ -1,79 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=200&section=header&text=Vũ%20Trí%20Dũng&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
-</div>
-
-<h1 align="center">🌸 Hi there, I'm Vũ Trí Dũng! 🌸</h1>
-<h3 align="center">Aspiring Mobile Developer | Software Engineering Student @ UTH | UI/UX Enthusiast</h3>
-
-<div align="center">
-  <i>Vietnamese 🇻🇳 | English 🇬🇧 | Japanese 🇯🇵</i>
+  <h1>👋 Hello, World!</h1>
+  <h3>Software Engineering Student | Tech Enthusiast</h3>
 </div>
 
 ---
 
-## 🇬🇧 English: About Me
+## 🇬🇧 About Me
 
-I'm a 3rd-year Information Technology student majoring in Software Engineering. My core focus is crafting smooth, engaging, and aesthetically pleasing mobile applications. I have a huge soft spot for designing user interfaces with Kawaii and Sakura-inspired themes ✨. When I'm not compiling code or debugging memory states, you can probably find me grinding in Blue Archive and Arknights, building rhythm games in Unity, or improving my Japanese proficiency.
+Hello! I am an Information Technology student majoring in Software Engineering. I enjoy exploring various aspects of software development and prefer to keep an open mind to different technologies and frameworks. I am always eager to learn, adapt to new challenges, and expand my skill set.
 
-*   🔭 **Currently working on:** *Student Life Manager* (A habit-tracking app utilizing SharedPreferences) & *DuckTrack* (A Pomodoro time management app with virtual tree-planting gamification).
-*   🌱 **Currently learning:** Advanced Kotlin, Flutter/Dart ecosystems, and aiming for an IELTS 6.5 band.
-*   👯 **Collaborating with:** My amazing dev squad (Ký, Đức, Linh, Nam, and Quyết).
-*   💬 **Ask me about:** Android Development, Mobile UI/UX Design, Cisco Networking (Packet Tracer & SD-WAN), or Machine Learning algorithms like K-means!
-*   📫 **How to reach me:** [Insert your email/LinkedIn here]
-*   ⚡ **Fun fact:** I love deploying multi-language web portfolios on Vercel and exploring Google Cloud Platform labs in my free time.
+*   🌱 **Currently learning:** Exploring new tools and broadening my programming knowledge.
+*   🔭 **Interests:** Software development, UI/UX design, and discovering new tech trends.
+*   📫 **How to reach me:** [Insert your email or contact link here]
 
 ---
 
-## 🇻🇳 Tiếng Việt: Về bản thân
+## 🇻🇳 Về bản thân
 
-Chào mọi người, mình là sinh viên năm 3 chuyên ngành Công nghệ Phần mềm tại UTH. Đam mê cốt lõi của mình là phát triển ứng dụng di động, đặc biệt là tập trung vào việc tạo ra những trải nghiệm người dùng mượt mà với giao diện mang phong cách dễ thương (những tông màu hồng, Kawaii/Sakura theme ✨ luôn là chân ái). Ngoài thời gian code, mình thường chơi các tựa game Gacha như Blue Archive, Arknights, mày mò thiết kế game Rhythm, hoặc trau dồi thêm ngoại ngữ.
+Chào mọi người! Mình là sinh viên chuyên ngành Công nghệ Phần mềm. Mình thích khám phá nhiều khía cạnh khác nhau của lập trình và không muốn gò bó bản thân vào một công nghệ nhất định. Mình luôn sẵn sàng học hỏi, thích nghi với các thử thách mới và mở rộng bộ kỹ năng của mình.
 
-*   🔭 **Dự án hiện tại:** *Student Life Manager* (Ứng dụng quản lý thói quen sinh viên) & *DuckTrack* (App quản lý thời gian Pomodoro tích hợp gamification trồng cây ảo).
-*   🌱 **Đang học hỏi:** Đào sâu về Kotlin, Flutter/Dart, và đang trong hành trình ôn luyện mục tiêu IELTS 6.5+.
-*   👯 **Làm việc cùng:** Đội ngũ anh em "đồng âm" tuyệt vời (Ký, Đức, Linh, Nam, Quyết).
-*   💬 **Hỏi mình về:** Lập trình Android, thiết kế UI/UX, cấu hình mạng Cisco (SD-WAN, OSPF, VLAN), hoặc phân tích cụm dữ liệu NLP/K-means!
-*   📫 **Liên hệ với mình:** [Điền email/LinkedIn của bạn]
-*   ⚡ **Fact vui:** Mình rất thích mày mò các hệ thống Cloud (GCP) và tự tay deploy các website đa ngôn ngữ.
+*   🌱 **Đang tìm hiểu:** Trải nghiệm các công cụ mới và trau dồi kiến thức lập trình.
+*   🔭 **Sở thích:** Phát triển phần mềm, thiết kế UI/UX và cập nhật xu hướng công nghệ.
+*   📫 **Liên hệ:** [Điền email hoặc link liên hệ của bạn]
 
 ---
 
-## 🇯🇵 日本語：自己紹介
+## 🇯🇵 自己紹介
 
-こんにちは！UTH（ホーチミン市交通通信大学）でソフトウェア工学を専攻している大学3年生、Vũ Trí Dũng（ズン）です。モバイルアプリ開発に情熱を注いでおり、特に「かわいい・桜」をテーマにしたスムーズで魅力的なUI/UXデザインを作るのが大好きです✨。プログラミングをしていない時は、ブルーアーカイブやアークナイツをプレイしたり、Unityでリズムゲームのプロトタイプを作ったり、日本語のIT専門用語を勉強したりしています。
+こんにちは！ソフトウェア工学を専攻しているIT学生です。特定の技術に縛られることなく、ソフトウェア開発のさまざまな分野を幅広く探索することが好きです。常に新しいことを学び、新しい課題に適応し、スキルを広げる意欲を持っています。
 
-*   🔭 **現在のプロジェクト:** 『Student Life Manager』（学生向け習慣トラッカー）と『DuckTrack』（仮想の木を育てるポモドーロ時間管理アプリ）。
-*   🌱 **学習中:** Kotlinの高度な実装、Flutter/Dart、そしてIELTS 6.5に向けた英語学習。
-*   👯 **チームメンバー:** 素晴らしい開発チーム（Ký, Đức, Linh, Nam, Quyết）と一緒に活動中。
-*   💬 **話せるトピック:** Android開発、UI/UXデザイン、Ciscoネットワーク構築（SD-WAN）、または機械学習（K-means）について！
-*   📫 **連絡先:** [メールやLinkedInを追加してください]
-*   ⚡ **豆知識:** アプリにゲーミフィケーションを取り入れたり、Vercelで多言語対応のポートフォリオを公開したりするのが好きです！
+*   🌱 **学習中:** 新しいツールの体験とプログラミング知識の向上。
+*   🔭 **興味:** ソフトウェア開発、UI/UXデザイン、最新のテクノロジートレンド。
+*   📫 **連絡先:** [ここに連絡先を入力]
 
 ---
 
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-  <br />
-  <h3>📱 Mobile Development</h3>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  
-  <h3>☁️ Cloud & Networking</h3>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  
-  <h3>🛠️ Other Skills</h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <!-- Bạn có thể thêm/bớt các icon công nghệ bạn hay dùng vào đây -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vutridung&show_icons=true&theme=pink&bg_color=ffe6f2&title_color=ff66b2&text_color=333333&icon_color=ff66b2" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vutridung&theme=pink&background=ffe6f2&ring=ff66b2&fire=ff66b2&currStreakLabel=ff66b2" alt="GitHub Streak" />
+  <!-- Nhớ đổi YOUR_GITHUB_USERNAME thành tên user của bạn -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </div>
